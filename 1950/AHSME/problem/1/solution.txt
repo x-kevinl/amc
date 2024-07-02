@@ -1,0 +1,1 @@
+If the three numbers are in proportion to $2:4:6$, then they should also be in proportion to $1:2:3$. This implies that the three numbers can be expressed as $x$, $2x$, and $3x$. Add these values together to get:\[x+2x+3x=6x=64\]Divide each side by 6 and get that\[x=\frac{64}{6}=\frac{32}{3}=10 \frac{2}{3}\]which is $\boxed{\textbf{(C)}}$.
